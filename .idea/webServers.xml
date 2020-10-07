@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7d7f1b14-967b-4d76-97b7-8ecd47562321" name="Lovlin" url="http://54.255.83.98">
+        <fileTransfer host="54.255.83.98" port="22" privateKey="$PROJECT_DIR$/../../Key/TamsIdea2_AWS_Keypem.pem" rootFolder="/var/www/html/lovlin" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
